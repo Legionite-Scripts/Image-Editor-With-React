@@ -54,7 +54,6 @@ body {
 
 @media (max-width: 430px) {
   #headingDiv {
-    border: 1px solid #fff;
     width: 100%;
     height: 500px;
     display: flex;
